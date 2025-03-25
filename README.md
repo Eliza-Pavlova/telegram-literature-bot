@@ -19,7 +19,7 @@
 pip install -r requirements.txt
 
 3. **Настройка Telegram API токена**
-- Для работы бота вам нужно создать бота в Telegram и получить токен с помощью [BotFather](https://core.telegram.org/bots#botfather).
+- Для работы бота вам нужно создать бота в Telegram и получить токен с помощью BotFather.
 - Вставьте ваш токен в строку TOKEN = 'YOUR_BOT_TOKEN' в коде.
 
 4. **Запуск бота**
